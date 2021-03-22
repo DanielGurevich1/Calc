@@ -7,7 +7,7 @@
     <title>@yield('titleTab1')</title>
 </head>
 <body>
-    @yield('int')
-    tur but
+    @yield('content')
+    tur but :)
 </body>
 </html>
