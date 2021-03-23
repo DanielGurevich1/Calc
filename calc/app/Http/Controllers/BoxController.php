@@ -24,7 +24,7 @@ class BoxController extends Controller
      */
     public function create()
     {
-        //
+       return view
     }
 
     /**
